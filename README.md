@@ -62,7 +62,9 @@ In conclusion, the analysis of Bitstamp and Coinbase trading data shows potentia
 
 ## Contributors
 
-Brought you by **Yanjun Lin Andrie**
+**UC Berkeley Extension**
+
+**Yanjun Lin Andrie**
 
 * yanjun.lin.andrie@gmail.com
 
