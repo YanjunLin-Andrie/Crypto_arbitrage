@@ -1,6 +1,6 @@
 ![bitcoin](images/bitcoin.png)
 # Crypto Arbitrage
- README.md file to include general information about your analysis. Include information about the datasets—their names and beginning and end dates—and the libraries you used in the analysis.
+
 >As Bitcoin trades on exchanges all over the world, one may capitalize on simultaneous price dislocations in different markets. This Jupyter notebook file displays the analysis and final report of potential arbitrage opportunities in Bitcoin through historical trade data on two exchanges: Bitstamp and Coinbase. 
 
 Three phases of financial analysis are included in the file to determine if any arbitrage opportunities exist for Bitcoin.
